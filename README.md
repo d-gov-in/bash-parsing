@@ -5,4 +5,4 @@ Repo for bash parsing assignment solution
     - chmod +x <filename>.sh
 
 - For running the script, use the following command:
-   - ./<filename>.sh <logfilePath>
+   -  "./<filename>.sh <logfilePath>"
