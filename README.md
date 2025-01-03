@@ -1,4 +1,4 @@
-# Bash-parsing
+# Bash-parsing assignment
 Repo for bash parsing assignment solution
 
 - use the following command to give execution permission to the script file:
